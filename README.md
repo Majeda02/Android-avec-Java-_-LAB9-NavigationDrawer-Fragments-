@@ -2,10 +2,14 @@
 
 #### Objectif 
 Apprendre à créer une application Android intégrant un menu latéral de navigation (Navigation Drawer), et à gérer dynamiquement plusieurs fragments dans une seule activité.
-Cet exercice pose les bases de la navigation modulaire sous Android : séparation des écrans, transactions de fragments et personnalisation d’icônes.
+
+Cet exercice pose les bases de la navigation modulaire sous Android : 
+* séparation des écrans, 
+* transactions de fragments,
+* personnalisation d’icônes.
 
 #### Bilan pédagogique
-Cet exercice t’initie à :
+Cet exercice permet à comprendre :
 * la structure du modèle Navigation Drawer,
 * la gestion dynamique des fragments,
 * la manipulation du FragmentManager,
